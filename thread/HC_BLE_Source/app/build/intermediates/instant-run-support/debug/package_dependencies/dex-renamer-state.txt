@@ -1,0 +1,10 @@
+#Sat Jun 09 19:32:13 CST 2018
+renamed.2=classes2.dex
+renamed.1=classes.dex
+renamed.0=classes3.dex
+base.2=E\:\\hisi\\ad_test\\ble\\HC_BLE_Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-alpha7_9740db25257291f88e38ab9b43d893f2f3d4f014
+base.1=E\:\\hisi\\ad_test\\ble\\HC_BLE_Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c598875de23dd8b12039f323ab12ffbc7d3af4c7
+base.0=E\:\\hisi\\ad_test\\ble\\HC_BLE_Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_f8058bc364f05292e85f9ac9afb66987c56080da
+file.2=E\:\\hisi\\ad_test\\ble\\HC_BLE_Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-alpha7_9740db25257291f88e38ab9b43d893f2f3d4f014\\classes.dex
+file.1=E\:\\hisi\\ad_test\\ble\\HC_BLE_Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c598875de23dd8b12039f323ab12ffbc7d3af4c7\\classes.dex
+file.0=E\:\\hisi\\ad_test\\ble\\HC_BLE_Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_f8058bc364f05292e85f9ac9afb66987c56080da\\classes.dex

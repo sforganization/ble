@@ -1,0 +1,4 @@
+#Tue Jun 12 23:00:05 CST 2018
+base.0=E\:\\hisi\\ad_test\\ble\\HC_BLE_Source\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+path.0=classes.dex
+renamed.0=classes.dex

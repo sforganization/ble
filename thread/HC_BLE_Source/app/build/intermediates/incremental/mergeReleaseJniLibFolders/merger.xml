@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\hisi\ad_test\ble\HC_BLE_Source\app\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="E:\hisi\ad_test\ble\HC_BLE_Source\app\src\release\jniLibs"/></dataSet></merger>

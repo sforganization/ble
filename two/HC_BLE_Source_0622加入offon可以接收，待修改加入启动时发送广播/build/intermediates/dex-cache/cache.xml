@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\hisi\ad_test\ble\HC_BLE_Source\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\hisi\ad_test\ble\HC_BLE_Source\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_23f5c6068626255e02e191bfef54f95c3deb5bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\110ee45350f48cc9665b225744a7b53ca354f178\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\hisi\ad_test\ble\HC_BLE_Source\app\build\intermediates\pre-dexed\debug\classes_c598875de23dd8b12039f323ab12ffbc7d3af4c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\hisi\ad_test\ble\HC_BLE_Source\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f8058bc364f05292e85f9ac9afb66987c56080da.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\hisi\ad_test\ble\HC_BLE_Source\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0bcec698e50312cf71fa565b854e0b50d9e66e2b">
+        <dex dex="E:\hisi\ad_test\ble\HC_BLE_Source\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_38ebd9ede7ef7e857dd805ad4ee200b6a685d944\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\hisi\ad_test\ble\HC_BLE_Source\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_9740db25257291f88e38ab9b43d893f2f3d4f014.jar" />
+    </item>
+
+</items>

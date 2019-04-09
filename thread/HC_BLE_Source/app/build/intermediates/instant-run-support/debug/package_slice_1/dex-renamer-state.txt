@@ -1,0 +1,4 @@
+#Fri Jun 08 00:45:11 CST 2018
+base.0=E\:\\hisi\\ad_test\\ble\\HC_BLE_Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=E\:\\hisi\\ad_test\\ble\\HC_BLE_Source\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

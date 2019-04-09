@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\8911ef609f7033296fff7ddcb8cd185f\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml
+		INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml
+		INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml
+		INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:8:5-73
+	android:name
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:8:22-71
+uses-feature#android.hardware.bluetooth_le
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:9:5-89
+	android:required
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:9:64-87
+	android:name
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:9:19-63
+uses-sdk
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\8911ef609f7033296fff7ddcb8cd185f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\8911ef609f7033296fff7ddcb8cd185f\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:12:5-14:41
+INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:12:5-14:41
+	android:targetSdkVersion
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:14:9-38
+		INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml
+		INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:13:9-35
+		INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml
+		INJECTED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:16:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\8911ef609f7033296fff7ddcb8cd185f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.0-alpha7.aar\8911ef609f7033296fff7ddcb8cd185f\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:18:9-37
+	android:allowBackup
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.huicheng.MainActivity
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.huicheng.ui.Ble_Activity
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:30:9-31:56
+	android:name
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:31:13-44
+service#com.huicheng.service.BluetoothLeService
+ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:32:9-106
+	android:enabled
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:32:73-95
+	android:name
+		ADDED from E:\hisi\ad_test\ble\thread\HC_BLE_Source\app\src\main\AndroidManifest.xml:32:18-72
